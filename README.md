@@ -2,7 +2,7 @@
 Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programação Orientada a Objetos (POO) por meio da simulação de um sistema de gerenciamento de lojas de um shopping center.
 
  
-## Funcionalidades
+## Funcionalidades:
 - Cadastro de lojas e produtos
 - Gerenciamento de estoque de produtos
 - Controle de endereço e data de fundação das lojas
@@ -10,11 +10,11 @@ Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programaçã
 - Inserção e remoção de lojas no shopping
 - Inserção e remoção de produtos no estoque
 - Consulta de lojas por segmento
-- Identificação da loja de informática com maior seguro de eletrônicos
-- Relatórios e exibição de informações das entidades cadastradas
+
+
 
  
-## Conceitos Aplicados
+## Conceitos Aplicados:
 - Programação Orientada a Objetos (POO)
 - Encapsulamento
 - Herança
@@ -26,8 +26,8 @@ Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programaçã
 - Manipulação de datas
 
  
-## Estrutura do Projeto
-### Classes Principais
+## Estrutura do Projeto:
+### Classes Principais:
 - 'Loja'
 - 'Produto'
 - 'Endereço'
@@ -35,7 +35,7 @@ Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programaçã
 - 'Shopping'
 
 
-### Especializações de Loja
+### Especializações de Loja:
 - 'Cosmetico'
 - 'Vestuario'
 - 'Bijuteria
@@ -43,11 +43,19 @@ Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programaçã
 - 'Informatica'
  
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 - Java
 - Programação Orientada a Objetos
 
  
-## Como Executar
+## Como Executar:
 1. Clone o repositório:
 git clone [https://github.com/ViniciusVieiraPereira/Sistema-de-Gestao-Shopping.git]
+
+
+## Vídeo do teste prático:
+https://github.com/user-attachments/assets/ed477d98-00d3-431b-98ca-1f4888d3e2ff
+
+
+## Acompanhe a Minha Jornada:
+[Linkedin](https://www.linkedin.com/in/vinicius-vieira-pereira/)
