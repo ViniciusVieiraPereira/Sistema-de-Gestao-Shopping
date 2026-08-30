@@ -1,0 +1,6 @@
+# Arquivos compilados pelo compilador do Java
+*.class
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
