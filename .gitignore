@@ -1,6 +1,23 @@
-# Arquivos compilados pelo compilador do Java
+# Arquivos compilados Java
 *.class
 
-# Arquivos do sistema operacional
+# Diretórios gerados pela IDE ou build
+bin/
+out/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Arquivos do sistema
 .DS_Store
 Thumbs.db
