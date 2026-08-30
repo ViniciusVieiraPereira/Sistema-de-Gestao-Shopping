@@ -52,6 +52,7 @@ Projeto desenvolvido em Java com o objetivo de aplicar conceitos de Programaçã
 1. Clone o repositório:
 git clone [https://github.com/ViniciusVieiraPereira/Sistema-de-Gestao-Shopping.git]
 
+2. Execute a classe "Principal".
 
 ## Vídeo do teste prático:
 https://github.com/user-attachments/assets/ed477d98-00d3-431b-98ca-1f4888d3e2ff
