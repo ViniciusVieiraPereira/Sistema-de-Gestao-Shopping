@@ -1,19 +1,14 @@
-# Arquivos compilados Java
+# Arquivos compilados Java:
 *.class
 
-# Diretórios gerados pela IDE ou build
+# Diretórios gerados pela IDE ou build:
 bin/
 out/
 build/
 
-# IntelliJ IDEA
+# Intellij IDEA:
 .idea/
 *.iml
-
-# Eclipse
-.project
-.classpath
-.settings/
 
 # VS Code
 .vscode/
